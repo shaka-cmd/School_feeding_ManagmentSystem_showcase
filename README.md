@@ -1,3 +1,6 @@
+Project showcase update - February 2026
+
+
 # 🏫 School Feeding Management System (SFMS) – Showcase Version
 
 ## 📌 Project Overview
